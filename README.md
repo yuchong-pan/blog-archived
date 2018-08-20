@@ -24,7 +24,7 @@ Text is available under the [Creative Commons Attribution-ShareAlike License](ht
 
 ## Contact
 
-Mailbox 1131
-2205 Lower Mall
-Vancouver, BC V6T 1Z4
+Mailbox 1131  
+2205 Lower Mall  
+Vancouver, BC V6T 1Z4  
 [panyuchong@gmail.com](mailto:panyuchong@gmail.com)
